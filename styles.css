@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(5, 238, 188, 0.479);
+    color: rgb(14, 49, 204);
+  }
+  h1{
+    text-align: center;
+    color: black;
+  }
+main{
+    margin: 0 auto;
+    border: 2px solid rgb(20, 3, 250);
+    text-align: center;
+    height:auto
+}
+p{
+    padding: 50px;
+    text-align: center;
+    font-size: large;
+}
+input,button{
+    width: 10%;
+    height: 25px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color:cornsilk;
+    font-size: large;
+}
